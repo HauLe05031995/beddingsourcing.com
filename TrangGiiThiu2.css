@@ -1,0 +1,86 @@
+.button-close-icon2 {
+  position: relative;
+  width: 34.56px;
+  height: 34.35px;
+  flex-shrink: 0;
+}
+.button2 {
+  align-self: stretch;
+  height: 40px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-4xl) var(--padding-4xl) 0;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.sourcing-vendor2 {
+  position: absolute;
+  top: 78px;
+  left: 329px;
+  letter-spacing: 0.07em;
+  line-height: 150%;
+  font-weight: 600;
+}
+.banner2 {
+  position: relative;
+  width: 1250px;
+  height: 215px;
+  flex-shrink: 0;
+  background-image: url(./public/banner2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.outlooks-original-goal {
+  margin-block-start: 0;
+  margin-block-end: 30px;
+}
+.outlook-technical-services {
+  text-decoration: underline;
+}
+.outlook-technical-services-pte {
+  color: inherit;
+}
+.outlook-built-the-first-dedica {
+  margin: 0;
+}
+.outlook-sources-a-container2 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.05em;
+  line-height: 163%;
+  font-weight: 200;
+}
+.text2,
+.trang-gii-thiu2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.text2 {
+  align-self: stretch;
+  padding: 0 var(--padding-41xl);
+  align-items: flex-start;
+  text-align: justify;
+  font-size: var(--font-size-base);
+  color: var(--font-inherit);
+}
+.trang-gii-thiu2 {
+  position: relative;
+  background-color: var(--color-white);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1250px;
+  padding: 0 0 var(--padding-116xl);
+  box-sizing: border-box;
+  align-items: flex-end;
+  gap: var(--gap-11xl);
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

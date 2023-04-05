@@ -1,0 +1,85 @@
+.button-close-icon3 {
+  position: relative;
+  width: 34.56px;
+  height: 34.35px;
+  flex-shrink: 0;
+}
+.button3 {
+  align-self: stretch;
+  height: 40px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-4xl) var(--padding-4xl) 0;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.sourcing-vendor3 {
+  position: absolute;
+  top: 78px;
+  left: 383px;
+  letter-spacing: 0.07em;
+  line-height: 150%;
+  font-weight: 600;
+}
+.banner3 {
+  align-self: stretch;
+  position: relative;
+  height: 215px;
+  flex-shrink: 0;
+  background-image: url(./public/banner3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.wenty-years-ago {
+  margin-block-start: 0;
+  margin-block-end: 30px;
+}
+.oemwholesalers {
+  margin-bottom: 0;
+}
+.oemwholesalers-local-regiona {
+  margin: 0;
+  padding-left: var(--padding-2xl);
+}
+.outlook-sources-a-container3 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.05em;
+  line-height: 163%;
+  font-weight: 200;
+}
+.text3,
+.trang-gii-thiu3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.text3 {
+  align-self: stretch;
+  padding: 0 var(--padding-41xl);
+  align-items: flex-start;
+  text-align: justify;
+  font-size: var(--font-inherit);
+  color: var(--color-black);
+  font-family: var(--font-inherit);
+}
+.trang-gii-thiu3 {
+  position: relative;
+  background-color: var(--color-white);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1250px;
+  padding: 0 0 var(--padding-116xl);
+  box-sizing: border-box;
+  align-items: flex-end;
+  gap: var(--gap-11xl);
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

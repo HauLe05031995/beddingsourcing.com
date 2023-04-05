@@ -1,0 +1,80 @@
+.button-close-icon1 {
+  position: relative;
+  width: 34.56px;
+  height: 34.35px;
+  flex-shrink: 0;
+}
+.button1 {
+  align-self: stretch;
+  height: 40px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-4xl) var(--padding-4xl) 0;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.sourcing-vendor1 {
+  position: absolute;
+  top: 78px;
+  left: 221px;
+  letter-spacing: 0.07em;
+  line-height: 150%;
+  font-weight: 600;
+}
+.banner1 {
+  align-self: stretch;
+  position: relative;
+  height: 215px;
+  flex-shrink: 0;
+  background-image: url(./public/banner1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.we-work-closely {
+  margin-block-start: 0;
+  margin-block-end: 30px;
+}
+.outlook-also-has {
+  margin: 0;
+}
+.outlook-sources-a-container1 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.05em;
+  line-height: 163%;
+  font-weight: 200;
+}
+.text1,
+.trang-gii-thiu1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.text1 {
+  align-self: stretch;
+  padding: 0 var(--padding-41xl);
+  align-items: flex-start;
+  text-align: justify;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.trang-gii-thiu1 {
+  position: relative;
+  background-color: var(--color-white);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1250px;
+  padding: 0 0 var(--padding-116xl);
+  box-sizing: border-box;
+  align-items: flex-end;
+  gap: var(--gap-11xl);
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
